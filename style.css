@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Potta+One&display=swap');
+*{
+	margin: 0;
+	padding: 0;
+}
+
+nav{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-color: black;
+	color: white;
+	height: 56px;
+}
+
+.content{
+	font-family: 'Potta One', cursive;
+}
+
+.container{
+	width: 60vw;
+	margin: auto;
+	padding: 30px;
+	font-family: 'Potta One', cursive;
+}
+
+.logo{
+
+}
+
+.logo img{
+	width: 25px;
+}
