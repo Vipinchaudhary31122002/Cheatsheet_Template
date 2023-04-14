@@ -5,6 +5,7 @@
 }
 
 nav{
+	font-size: 1.5rem;
 	display: flex;
 	align-items: center;
 	justify-content: center;
@@ -25,9 +26,17 @@ nav{
 }
 
 .logo{
-
+	padding: 15px;
 }
 
 .logo img{
 	width: 25px;
+}
+
+.toolbar-item button{
+	cursor: pointer;
+	color: white;
+	border: 1px solid white;
+	border-radius: 15px;
+	padding: 5px 14px;
 }
